@@ -1,0 +1,83 @@
+[
+  {
+    "nombre": "GWEN",
+    "imagen": "wen.png",
+    "descripcion": "Una antigua muñeca transformada y traída a la vida por arte de magia, Gwen empuña las herramientas que una vez la creó. Ella lleva el peso del amor de su creador con cada paso, sin dar nada por sentado.",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Tribu 1"
+    }
+  },
+  {
+    "nombre": "ZIGGS",
+    "imagen": "zingge.png",
+    "descripcion": "Con el amor por las grandes bombas y los fusibles cortos, el yordle Ziggs es una fuerza explosiva de la naturaleza. Como asistente de un inventor en Piltover, se aburrió de su vida predecible y se hizo amigo de un bombardero loco y de pelo azul llamado Jinx.",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Tribu 1"
+    }
+  },
+  {
+    "nombre": "SONA",
+    "imagen": "zona.png",
+    "descripcion": "Sona es la principal virtuosa de Demacia del etwahl de cuerda, hablando solo a través de sus elegantes acordes y arias vibrantes",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Tribu 1"
+    }
+  },
+  {
+    "nombre": "JINX",
+    "imagen": "jinx.png",
+    "descripcion": "Un criminal maníaco e impulsivo de Zaun, Jinx vive para causar estragos sin preocuparse por las consecuencias. Con un arsenal de armas mortales, desata las explosiones más fuertes y las explosiones más brillantes para dejar un rastro de caos y pánico a su paso.",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Tribu 1"
+    }
+  },
+  {
+    "nombre": "SORAKA",
+    "imagen": "sorka.png",
+    "descripcion": "Un vagabundo de las dimensiones celestiales más allá del Monte Targón, Soraka renunció a su inmortalidad para proteger a las razas mortales de sus propios instintos más violentos.",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Tribu 1"
+    }
+  }, 
+  {
+    "nombre": "SWAIN",
+    "imagen": "swain.png",
+    "descripcion": "Jericho Swain es el gobernante visionario de Noxus, una nación expansionista que venera solo la fuerza. Aunque fue derribado y lisiado en las guerras jónicas, con el brazo izquierdo cortado, tomó el control del imperio con determinación despiadada.",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Tribu 1"
+    }
+  },
+  {
+    "nombre": "LILLIA",
+    "imagen": "lili.png",
+    "descripcion": "Intensamente tímida, la fae fawn Lillia deambula hábilmente por los bosques de jonia. Escondiéndose a la vista de los mortales, cuyas misteriosas naturalezas han cautivado durante mucho tiempo, pero intimidado",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Jonia"
+    }
+  },
+  {
+    "nombre": "SYLAS",
+    "imagen": "sylas.png",
+    "descripcion": "Criada en uno de los barrios menores de Demacia, Sylas de Dregbourne ha llegado a simbolizar el lado más oscuro de la Gran Ciudad. Cuando era niño, su capacidad para erradicar la brujería oculta llamó la atención de los notorios mageseekers, quienes finalmente lo encarcelaron.",
+    "detalles": {
+      "habilidad": "Habilidad 1",
+      "poder": "Poder 1",
+      "tribu": "Tribu 1"
+    }
+  }
+  
+]
